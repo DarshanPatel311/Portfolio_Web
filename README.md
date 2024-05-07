@@ -1,8 +1,12 @@
-  <h1 align = "center"> <b> Portfolio </b> </h1>
+  <h1 align = "center"> <b> Portfolio Website💻</b> </h1>
   <p>
-  <img src = "https://github.com/fenishpatel3150/portfolioweb/assets/143187609/4899057d-1733-42dd-91b0-5787f4235217" width=50% height=25%>  
-  <img src = "https://github.com/fenishpatel3150/portfolioweb/assets/143187609/4a5c9d1f-cabb-40f5-b6f6-ef1ed92f5a09" width=50% height=35%>
-  <img src = "https://github.com/fenishpatel3150/portfolioweb/assets/143187609/2d3a293e-ac3e-48cd-9bed-05ce79380b0a" width=50% height=35%>
-  <img src = "https://github.com/fenishpatel3150/portfolioweb/assets/143187609/cb41c3c0-9327-4c6e-8500-c90284a7b520" width=50% height=35%> 
-  <video src ="https://github.com/fenishpatel3150/portfolioweb/assets/143187609/5f52c483-434a-4e54-84f0-df9bf8754568"></video>
+      <h1 align = "center">
+  <img src = "https://github.com/DarshanPatel311/Portfolio_Web/assets/143177575/c2b25949-7319-496c-ac5b-d26f2017023d" width=70% height=25%><br><br>
+  <img src = "https://github.com/DarshanPatel311/Portfolio_Web/assets/143177575/e488c548-8eb8-4cb1-ba2b-fb86cb48966a" width=70% height=35% ><br><br>
+
+  <video src ="https://github.com/DarshanPatel311/Portfolio_Web/assets/143177575/94c9555f-477a-46eb-8223-a4c2f5e9bfc4"></video> </h1>
   </p> 
+
+
+
+
